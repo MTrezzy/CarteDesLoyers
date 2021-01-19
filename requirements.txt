@@ -1,0 +1,7 @@
+-e .
+
+jupyter
+numpy
+requests
+pandas
+pyarrow
